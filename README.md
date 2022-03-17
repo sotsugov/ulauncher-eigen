@@ -19,7 +19,7 @@ and extract the `ulauncher-eigen-main` folder to `/home/YourUsername/.config/ula
 
 ## Preview
 
-![A preview screenshot](screenshot.png)
+![Screenshot from 2022-03-17 18-01-03](https://user-images.githubusercontent.com/234929/158842760-38f523cf-6e53-41dd-8b79-2da8946dee32.png)
 
 ### Key colours
 ```
