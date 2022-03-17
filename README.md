@@ -8,7 +8,7 @@ To install this theme, just copy paste the command below in your terminal:
 
 ```
 git clone https://github.com/sotsugov/ulauncher-eigen/ \
-  ~/.config/ulauncher/user-themes/zorin-blue-dark
+  ~/.config/ulauncher/user-themes/eigen-dark
 ```
 
 ## Manually
