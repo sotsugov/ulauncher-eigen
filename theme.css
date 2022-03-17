@@ -1,0 +1,60 @@
+@define-color eigen #16161d;
+@define-color night #1c2333;
+@define-color dimmed #242d41;
+@define-color light #8e959e;
+@define-color bright #e6e6e1;
+
+.app {
+  font-family: inherit;
+  background-color: @eigen;
+  border-color: @eigen;
+}
+
+.input {
+  color: @bright;
+}
+
+.input *:selected,
+.input *:focus,
+*:selected:focus {
+  color: @night;
+}
+
+.item-text {
+  color: @light;
+}
+
+.item-name {
+  color: @light;
+}
+
+.selected.item-box {
+  background-color: @dimmed;
+}
+
+.selected.item-box .item-text {
+  color: @light;
+}
+
+.selected.item-box .item-name {
+  color: @light;
+}
+
+.item-shortcut {
+  color: @light;
+  text-shadow: none;
+  opacity: 0.5;
+}
+
+.selected.item-box .item-shortcut {
+  color: @bright;
+  text-shadow: none;
+}
+
+.prefs-btn {
+  opacity: 0.5;
+}
+
+.prefs-btn:hover {
+  background-color: @bright;
+}
